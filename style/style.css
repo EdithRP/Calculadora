@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  }
+
+  body{
+    background-image: url("https://album.es/fotos/uploads/imagenes/thumbs/textiles_TELAS3_1200px.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+  .container {
+    margin:20%;
+    display: inline-block;
+    position: relative;
+    background: rgb(129, 33, 33);
+    font-family: 'Times New Roman', Times, serif;
+    width: 40vw;
+    height: 60vh;
+    border-radius: 30px;
+    bottom: 40vh;
+    left: 10vw;
+  }
+  
+  .titulo {
+    padding-top: 10%;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+
+  }
+  
+  .boton {
+    display: inline-block;
+    width: 90px;
+    height: 50px;
+    font-size: 20px;
+    margin: 3px;
+    background:wheat;
+    border: 2px solid white;
+    color:black;
+  }
+
+
+  
+  .boton:hover {
+    background: white;
+    border: 3px solid rgb(0,0,0);
+    color: black;
+  }
+  
+  .color .boton {
+    background: #CD5C5C;
+  }
+  
+  .texto {
+    display: inline-block;
+    width: 270px;
+    margin: 4px;
+    font-size: 25px;
+    padding: 6px;
+    color: #000000;
+  }
+  
+  
+  
